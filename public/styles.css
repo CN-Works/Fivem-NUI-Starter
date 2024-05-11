@@ -3,6 +3,9 @@
     src: url("../fonts/RobotoMono-Regular.ttf");
 }
 
-body {
+* {
     font-family: "RobotoMono-Regular", sans-serif;
+    padding : 0;
+    margin : 0;
+    box-sizing: border-box;
 }
