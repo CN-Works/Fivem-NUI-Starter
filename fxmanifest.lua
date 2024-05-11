@@ -24,4 +24,5 @@ files {
     "public/**.css",
     "public/js/**.js",
     "public/img/**.png",
+    "public/fonts/**.ttf"
 }
