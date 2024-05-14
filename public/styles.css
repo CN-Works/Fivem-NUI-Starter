@@ -1,10 +1,25 @@
 @font-face {
+    font-family: "ChaletLondonNineteenSixty";
+    src: url("./fonts/ChaletLondonNineteenSixty.ttf");
+}
+
+@font-face {
+    font-family: "ChaletNewYorkNineteenSixty";
+    src: url("./fonts/ChaletNewYorkNineteenSixty.ttf");
+}
+
+@font-face {
+    font-family: "ChaletComprimeCologneSixty";
+    src: url("./fonts/ChaletComprimeCologneSixty.ttf");
+}
+
+@font-face {
     font-family: "RobotoMono-Regular";
-    src: url("../fonts/RobotoMono-Regular.ttf");
+    src: url("./fonts/RobotoMono-Regular.ttf");
 }
 
 * {
-    font-family: "RobotoMono-Regular", sans-serif;
+    font-family: "ChaletLondonNineteenSixty", sans-serif;
     padding : 0;
     margin : 0;
     box-sizing: border-box;
