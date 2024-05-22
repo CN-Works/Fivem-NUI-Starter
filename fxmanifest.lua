@@ -23,6 +23,11 @@ files {
     "public/index.html",
     "public/**.css",
     "public/js/**.js",
-    "public/img/**.png",
     "public/fonts/**.ttf"
+    "public/img/**.png",
+    "public/img/**.jpg",
+    "public/img/**.jpeg",
+    "public/img/**.gif",
+    "public/img/**.svg",
+    "public/img/**.webp",
 }
