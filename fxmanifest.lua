@@ -22,7 +22,7 @@ ui_page "public/index.html"
 files {
     "public/index.html",
     "public/**.css",
-    "public/**.js",
+    "public/js/**.js",
     "public/fonts/**.ttf",
     "public/img/**.png",
     "public/img/**.jpg",
