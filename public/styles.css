@@ -18,6 +18,31 @@
     src: url("./fonts/RobotoMono-Regular.ttf");
 }
 
+@font-face {
+    font-family: "Teko-Bold"; /* Nom de la police */
+    src: url("./fonts/Teko-Bold.ttf"); /* Chemin vers le fichier TTF */
+}
+
+@font-face {
+    font-family: "Teko-Light"; /* Nom de la police */
+    src: url("./fonts/Teko-Light.ttf"); /* Chemin vers le fichier TTF */
+}
+
+@font-face {
+    font-family: "Teko-Medium"; /* Nom de la police */
+    src: url("./fonts/Teko-Medium.ttf"); /* Chemin vers le fichier TTF */
+}
+
+@font-face {
+    font-family: "Teko-Regular"; /* Nom de la police */
+    src: url("./fonts/Teko-Regular.ttf"); /* Chemin vers le fichier TTF */
+}
+
+@font-face {
+    font-family: "Teko-SemiBold"; /* Nom de la police */
+    src: url("./fonts/Teko-SemiBold.ttf"); /* Chemin vers le fichier TTF */
+}
+
 * {
     font-family: "ChaletLondonNineteenSixty", sans-serif;
     padding : 0;
