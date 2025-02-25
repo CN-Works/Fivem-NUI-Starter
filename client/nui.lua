@@ -4,6 +4,12 @@ function CloseUi()
     })
 end
 
+function OpenUI()
+    SendNUIMessage({
+        type = "open",
+    })
+end
+
 -- Close the menu
 RegisterNUICallback("close", function(data, cb)
     SetNuiFocus(false, false)

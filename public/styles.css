@@ -1,3 +1,5 @@
+/* Rage */
+
 @font-face {
     font-family: "ChaletLondonNineteenSixty";
     src: url("./fonts/ChaletLondonNineteenSixty.ttf");
@@ -13,38 +15,95 @@
     src: url("./fonts/ChaletComprimeCologneSixty.ttf");
 }
 
+/* Roboto */
+
 @font-face {
     font-family: "RobotoMono-Regular";
     src: url("./fonts/RobotoMono-Regular.ttf");
 }
 
+/* Teko */
+
 @font-face {
-    font-family: "Teko-Bold"; /* Nom de la police */
-    src: url("./fonts/Teko-Bold.ttf"); /* Chemin vers le fichier TTF */
+    font-family: "Teko-Bold";
+    src: url("./fonts/Teko-Bold.ttf");
 }
 
 @font-face {
-    font-family: "Teko-Light"; /* Nom de la police */
-    src: url("./fonts/Teko-Light.ttf"); /* Chemin vers le fichier TTF */
+    font-family: "Teko-Light";
+    src: url("./fonts/Teko-Light.ttf");
 }
 
 @font-face {
-    font-family: "Teko-Medium"; /* Nom de la police */
-    src: url("./fonts/Teko-Medium.ttf"); /* Chemin vers le fichier TTF */
+    font-family: "Teko-Medium";
+    src: url("./fonts/Teko-Medium.ttf");
 }
 
 @font-face {
-    font-family: "Teko-Regular"; /* Nom de la police */
-    src: url("./fonts/Teko-Regular.ttf"); /* Chemin vers le fichier TTF */
+    font-family: "Teko-Regular";
+    src: url("./fonts/Teko-Regular.ttf");
 }
 
 @font-face {
-    font-family: "Teko-SemiBold"; /* Nom de la police */
-    src: url("./fonts/Teko-SemiBold.ttf"); /* Chemin vers le fichier TTF */
+    font-family: "Teko-SemiBold";
+    src: url("./fonts/Teko-SemiBold.ttf");
+}
+
+/* ChakraPetch */
+
+@font-face {
+    font-family: "ChakraPetch-Bold";
+    src: url("./fonts/ChakraPetch-Bold.ttf");
+}
+
+@font-face {
+    font-family: "ChakraPetch-BoldItalic";
+    src: url("./fonts/ChakraPetch-BoldItalic.ttf");
+}
+
+@font-face {
+    font-family: "ChakraPetch-Italic";
+    src: url("./fonts/ChakraPetch-Italic.ttf");
+}
+
+
+@font-face {
+    font-family: "ChakraPetch-Light";
+    src: url("./fonts/ChakraPetch-Light.ttf");
+}
+
+@font-face {
+    font-family: "ChakraPetch-LightItalic";
+    src: url("./fonts/ChakraPetch-LightItalic.ttf");
+}
+
+@font-face {
+    font-family: "ChakraPetch-Medium";
+    src: url("./fonts/ChakraPetch-Medium.ttf");
+}
+
+@font-face {
+    font-family: "ChakraPetch-MediumItalic";
+    src: url("./fonts/ChakraPetch-MediumItalic.ttf");
+}
+
+@font-face {
+    font-family: "ChakraPetch-Regular";
+    src: url("./fonts/ChakraPetch-Regular.ttf");
+}
+
+@font-face {
+    font-family: "ChakraPetch-SemiBold";
+    src: url("./fonts/ChakraPetch-SemiBold.ttf");
+}
+
+@font-face {
+    font-family: "ChakraPetch-SemiBoldItalic";
+    src: url("./fonts/ChakraPetch-SemiBoldItalic.ttf");
 }
 
 * {
-    font-family: "ChaletLondonNineteenSixty", sans-serif;
+    font-family: "ChakraPetch-Regular", sans-serif;
     padding : 0;
     margin : 0;
     box-sizing: border-box;
